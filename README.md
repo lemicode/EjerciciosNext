@@ -1,3 +1,3 @@
 ## Ejercicios en Next
 
-- [Invoices](./invoices/)
+- [Invoices](./nextjs-dashboard/)
